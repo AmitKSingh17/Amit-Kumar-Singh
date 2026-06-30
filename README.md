@@ -1,6 +1,8 @@
 # Amit-Kumar-Singh
 Hey there!
+
 I'm Amit Singh, a Materials and Mechanical Researcher based in the USA.
+
 My research focuses on the characterization and performance evaluation of advanced materials, ranging from polymers to metals, for applications in tribology, dielectric insulation, and extreme environmental conditions.
 
 I have worked on PAA/PI–SiO₂ nanocomposite thin films for cryogenic dielectric insulation applications, investigating their electrical, mechanical, and thermal properties.
